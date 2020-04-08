@@ -13,10 +13,10 @@ void main ()
   switch (nbArticles)
    {
     case 0  : printf ("Il n'y a aucune article\n");
-              break;
+//              break;
 
     case 1  : printf ("Il y a un article\n");
-              break;
+//              break;
 
     default : if (nbArticles>0)
                     {
